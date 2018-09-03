@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ihshmidt@gmail.com"
+    },
+    {
+      "id": 2,
+      "email": "igora042@gmail.com"
+    },
+    {
+      "id": 3,
+      "email": "ihor.shmidt@techmagic.co"
+    }
+  ],
+  "posts": [
+    {
+      "owner": 1,
+      "posts": [
+        {
+          "id": 1,
+          "post": "A falsis, buxum magnum heuretes."
+        },
+        {
+          "id": 2,
+          "post": "Nunquam imperium exsul."
+        },
+        {
+          "id": 3,
+          "post": "Parallel visions knows most paradoxs."
+        }
+      ]
+    },
+    {
+      "owner": 2,
+      "posts": [
+        {
+          "id": 1,
+          "post": "Love is a weird grog."
+        },
+        {
+          "id": 2,
+          "post": "The lotus synthesises."
+        },
+        {
+          "id": 3,
+          "post": "Cum tumultumque crescere, omnes solitudoes imperium barbatus, grandis sensoremes."
+        }
+      ]
+    },
+    {
+      "owner": 3,
+      "posts": [
+        {
+          "id": 1,
+          "post": "Where is the most unusual particle."
+        },
+        {
+          "id": 2,
+          "post": "Cur terror volare."
+        },
+        {
+          "id": 3,
+          "post": "The seeker has history, but not everyone shapes it."
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "post": 1,
+      "comments": [
+        "A falsis, buxum magnum heuretes.",
+        "Nunquam imperium exsul.",
+        "Parallel visions knows most paradoxs."
+      ]
+    },
+    {
+      "post": 2,
+      "comments": [
+        "Love is a weird grog.",
+        "The lotus synthesises.",
+        "Cum tumultumque crescere, omnes solitudoes imperium barbatus, grandis sensoremes."
+      ]
+    },
+    {
+      "post": 3,
+      "comments": [
+        "Where is the most unusual particle.",
+        "Cur terror volare.",
+        "The seeker has history, but not everyone shapes it."
+      ]
+    }
+  ]
+}
